@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-07T01:29:20Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14012595",
+        "name": "PumphousePark-CycleTrack",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -114.1075925,
+              51.045484
+            ],
+            [
+              -114.1073302,
+              51.0454769
+            ],
+            [
+              -114.1070841,
+              51.0454616
+            ],
+            [
+              -114.1070532,
+              51.0454251
+            ],
+            [
+              -114.1070742,
+              51.0452114
+            ],
+            [
+              -114.1070961,
+              51.0449663
+            ],
+            [
+              -114.1071679,
+              51.0448259
+            ],
+            [
+              -114.1071794,
+              51.0447021
+            ],
+            [
+              -114.1071745,
+              51.0446804
+            ],
+            [
+              -114.1071532,
+              51.044664
+            ],
+            [
+              -114.1070438,
+              51.0446557
+            ],
+            [
+              -114.1069162,
+              51.0446461
+            ],
+            [
+              -114.1069147,
+              51.0445939
+            ]
+          ],
+          [
+            [
+              -114.1069162,
+              51.0446461
+            ],
+            [
+              -114.1064642,
+              51.044617
+            ]
+          ]
+        ]
+      },
+      "id": "relation/14012595"
+    }
+  ]
+}

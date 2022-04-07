@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "layers": {
+    "12MileCoulee": {
+      "source": "mapbox://tileset-source/miffll/12MileCoulee",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "GreenwayConnectionNorth": {
+      "source": "mapbox://tileset-source/miffll/GreenwayConnectionNorth",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "GreenwayConnectionSouth": {
+      "source": "mapbox://tileset-source/miffll/GreenwayConnectionSouth",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "NoseCreek-Greenway": {
+      "source": "mapbox://tileset-source/miffll/NoseCreek-Greenway",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "PumphousePark-CycleTrack": {
+      "source": "mapbox://tileset-source/miffll/PumphousePark-CycleTrack",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "PumphousePark": {
+      "source": "mapbox://tileset-source/miffll/PumphousePark",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "BowRiverCycleBridges": {
+      "source": "mapbox://tileset-source/miffll/BowRiverCycleBridges",
+      "minzoom": 0,
+      "maxzoom": 16
+    }
+  }
+}

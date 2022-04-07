@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-07T01:46:37Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1049797212",
+        "bicycle": "yes",
+        "highway": "cycleway",
+        "motor_vehicle": "yes",
+        "name": "Greenway Connection South",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.9121482,
+            50.950559
+          ],
+          [
+            -113.911938,
+            50.95056
+          ],
+          [
+            -113.911946,
+            50.9527265
+          ],
+          [
+            -113.9118039,
+            50.9527368
+          ]
+        ]
+      },
+      "id": "way/1049797212"
+    }
+  ]
+}

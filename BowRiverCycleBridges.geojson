@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-07T16:36:11Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014936",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -114.2016724,
+              51.0982679
+            ],
+            [
+              -114.2017841,
+              51.0983803
+            ],
+            [
+              -114.20184,
+              51.0984128
+            ],
+            [
+              -114.2020941,
+              51.0983443
+            ],
+            [
+              -114.2024121,
+              51.098342
+            ],
+            [
+              -114.2029709,
+              51.09847
+            ],
+            [
+              -114.2030945,
+              51.098578
+            ],
+            [
+              -114.2031982,
+              51.0987531
+            ],
+            [
+              -114.2032736,
+              51.0990034
+            ],
+            [
+              -114.2035504,
+              51.0991971
+            ],
+            [
+              -114.2035526,
+              51.0992255
+            ],
+            [
+              -114.2035288,
+              51.0995252
+            ]
+          ],
+          [
+            [
+              -114.2012918,
+              51.0975054
+            ],
+            [
+              -114.201303,
+              51.0975566
+            ],
+            [
+              -114.2014904,
+              51.09806
+            ]
+          ]
+        ]
+      },
+      "id": "relation/14014936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014937",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.1725464,
+            51.0793297
+          ],
+          [
+            -114.1717903,
+            51.0783781
+          ]
+        ]
+      },
+      "id": "relation/14014937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014938",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.1532568,
+            51.0647057
+          ],
+          [
+            -114.1547851,
+            51.0639794
+          ]
+        ]
+      },
+      "id": "relation/14014938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014941",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -114.0796056,
+              51.0544012
+            ],
+            [
+              -114.0795542,
+              51.0543664
+            ],
+            [
+              -114.0795088,
+              51.054332
+            ],
+            [
+              -114.0783018,
+              51.0534889
+            ]
+          ],
+          [
+            [
+              -114.0832055,
+              51.0508308
+            ],
+            [
+              -114.0832409,
+              51.0509753
+            ],
+            [
+              -114.0833285,
+              51.051244
+            ],
+            [
+              -114.0834237,
+              51.0514234
+            ],
+            [
+              -114.08351,
+              51.0515873
+            ],
+            [
+              -114.0839039,
+              51.0522747
+            ]
+          ]
+        ]
+      },
+      "id": "relation/14014941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014943",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -114.0473908,
+              51.0474513
+            ],
+            [
+              -114.0470909,
+              51.0479372
+            ],
+            [
+              -114.0467654,
+              51.0484538
+            ],
+            [
+              -114.0465559,
+              51.0488045
+            ],
+            [
+              -114.0464154,
+              51.0490437
+            ],
+            [
+              -114.0463859,
+              51.0490975
+            ],
+            [
+              -114.046339,
+              51.0491843
+            ]
+          ],
+          [
+            [
+              -114.0530099,
+              51.0484142
+            ],
+            [
+              -114.0527087,
+              51.0484831
+            ],
+            [
+              -114.0523224,
+              51.0485893
+            ],
+            [
+              -114.0519362,
+              51.0487259
+            ],
+            [
+              -114.0515615,
+              51.048898
+            ],
+            [
+              -114.0512101,
+              51.0491223
+            ],
+            [
+              -114.0509768,
+              51.0493061
+            ],
+            [
+              -114.0508105,
+              51.0494444
+            ],
+            [
+              -114.0506093,
+              51.0496568
+            ],
+            [
+              -114.050384,
+              51.0499603
+            ],
+            [
+              -114.0503574,
+              51.049997
+            ]
+          ],
+          [
+            [
+              -114.0518242,
+              51.0503724
+            ],
+            [
+              -114.0526373,
+              51.0494452
+            ]
+          ],
+          [
+            [
+              -114.0519556,
+              51.0504255
+            ],
+            [
+              -114.0527824,
+              51.0494997
+            ]
+          ]
+        ]
+      },
+      "id": "relation/14014943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014944",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.0323314,
+            51.0444219
+          ],
+          [
+            -114.0329887,
+            51.0429674
+          ]
+        ]
+      },
+      "id": "relation/14014944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014945",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -114.0119444,
+              51.0373027
+            ],
+            [
+              -114.014053,
+              51.0375895
+            ]
+          ],
+          [
+            [
+              -114.014316,
+              51.0371648
+            ],
+            [
+              -114.0120577,
+              51.0368934
+            ]
+          ]
+        ]
+      },
+      "id": "relation/14014945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014946",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.0143176,
+            51.0137719
+          ],
+          [
+            -114.0140956,
+            51.013608
+          ],
+          [
+            -114.0138446,
+            51.0134338
+          ],
+          [
+            -114.0119958,
+            51.0122959
+          ],
+          [
+            -114.0118405,
+            51.0121728
+          ]
+        ]
+      },
+      "id": "relation/14014946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014947",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.0234739,
+            50.9859414
+          ],
+          [
+            -114.0251329,
+            50.9873433
+          ]
+        ]
+      },
+      "id": "relation/14014947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014948",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.0249126,
+            50.9700407
+          ],
+          [
+            -114.0250337,
+            50.9699941
+          ],
+          [
+            -114.02637,
+            50.96948
+          ]
+        ]
+      },
+      "id": "relation/14014948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014949",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.0102874,
+            50.9413804
+          ],
+          [
+            -114.0104484,
+            50.9412567
+          ],
+          [
+            -114.0116386,
+            50.9405323
+          ],
+          [
+            -114.0117665,
+            50.9404614
+          ],
+          [
+            -114.011824,
+            50.9404379
+          ],
+          [
+            -114.0119089,
+            50.9404484
+          ],
+          [
+            -114.0122858,
+            50.9405634
+          ],
+          [
+            -114.0123602,
+            50.9405952
+          ],
+          [
+            -114.012417,
+            50.9406271
+          ],
+          [
+            -114.0124681,
+            50.9406712
+          ],
+          [
+            -114.0125314,
+            50.9407612
+          ],
+          [
+            -114.0126254,
+            50.9408628
+          ]
+        ]
+      },
+      "id": "relation/14014949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14014950",
+        "name": "Bow River Cycle Friendly Bridges",
+        "route": "bicycle",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.0000103,
+            50.9116654
+          ],
+          [
+            -113.9990858,
+            50.9107651
+          ]
+        ]
+      },
+      "id": "relation/14014950"
+    }
+  ]
+}
