@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "layers": {
+    "BowRiverN": {
+      "source": "mapbox://tileset-source/miffll/BowRiverN",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "BowRiverValleyPathway": {
+      "source": "mapbox://tileset-source/miffll/BowRiverValley",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "BowRiverValleyPathwayNE": {
+      "source": "mapbox://tileset-source/miffll/BowRiverValleyNE",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "BowRiverValleyPathwayS": {
+      "source": "mapbox://tileset-source/miffll/BowRiverValleyS",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "BowRiverValleyPathwaySE": {
+      "source": "mapbox://tileset-source/miffll/BowRiverValleySE",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "Dalhousie-BowRiver": {
+      "source": "mapbox://tileset-source/miffll/DalhousieBowRiverCon",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "EdgemontBLVD": {
+      "source": "mapbox://tileset-source/miffll/EdgemontBLVD",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "EdgemontRavineConnection": {
+      "source": "mapbox://tileset-source/miffll/EdgemontRavineConnection",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "ElbowRiverPathway": {
+      "source": "mapbox://tileset-source/miffll/ElbowRiverPathway",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "FortCalgary": {
+      "source": "mapbox://tileset-source/miffll/FortCalgary",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "GlenmoreReservoirPathway": {
+      "source": "mapbox://tileset-source/miffll/GlenmoreReservoirPathway",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "GreenwayNorth": {
+      "source": "mapbox://tileset-source/miffll/GreenwayNorth",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "GreenwaySouth": {
+      "source": "mapbox://tileset-source/miffll/GreenwaySouth",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "NoseCreekNoseHillCon": {
+      "source": "mapbox://tileset-source/miffll/NoseCreekNoseHillCon",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "NoseCreekPathway": {
+      "source": "mapbox://tileset-source/miffll/NoseCreekPathway",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "NoseHillPark": {
+      "source": "mapbox://tileset-source/miffll/NoseHillPark",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "WesternHeadworksCanalPathway": {
+      "source": "mapbox://tileset-source/miffll/WesternHeadworksCanalPathway",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "WesternHeadworksCanalPathwayN": {
+      "source": "mapbox://tileset-source/miffll/WesternHeadworksCanalPathwayN",
+      "minzoom": 0,
+      "maxzoom": 16
+    }
+  }
+}

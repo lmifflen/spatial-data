@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "layers": {
+    "53StreetNW": {
+      "source": "mapbox://tileset-source/miffll/53-street-NW-Cyclepath",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "BowRiver-Inglewood": {
+      "source": "mapbox://tileset-source/miffll/BowRiver-Inglewood",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "Heritage": {
+      "source": "mapbox://tileset-source/miffll/Heritage",
+      "minzoom": 0,
+      "maxzoom": 16
+    },
+    "DT-Cycle-Network": {
+      "source": "mapbox://tileset-source/miffll/DT-Cycle-Network",
+      "minzoom": 0,
+      "maxzoom": 16
+    }
+  }
+}
