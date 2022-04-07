@@ -14,3 +14,8 @@ tilesets create miffll.missing-links --recipe missing-links.json --name "missing
  tilesets publish miffll.missing-links
 
 
+## view recipe
+tilesets view-recipe miffll.missing-links
+
+## check status of upload
+tilesets status miffll.missing-links
