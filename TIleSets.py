@@ -12,6 +12,30 @@ tilesets create miffll.missing-links --recipe missing-links.json --name "missing
  
  ## publish tilesets
  tilesets publish miffll.missing-links
+ 
+ export MAPBOX_ACCESS_TOKEN=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## view recipe
