@@ -11,11 +11,11 @@ tilesets create miffll.missing-links --recipe missing-links.json --name "missing
  tilesets update-recipe miffll.missing-links missing-links.json
  
  ## publish tilesets
- tilesets publish miffll.missing-links
+ tilesets publish miffll.park-pathways
  
  export MAPBOX_ACCESS_TOKEN=
 
-
+tilesets update-recipe miffll.park-pathways ./ParkPathways/park-pathways.json 
 
 
 

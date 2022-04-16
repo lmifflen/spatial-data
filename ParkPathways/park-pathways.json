@@ -26,7 +26,7 @@
       "minzoom": 0,
       "maxzoom": 16
     },
-    "Dalhousie-BowRiver": {
+    "DalhousieToBowRiver": {
       "source": "mapbox://tileset-source/miffll/DalhousieBowRiverCon",
       "minzoom": 0,
       "maxzoom": 16
