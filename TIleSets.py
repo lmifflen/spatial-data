@@ -1,5 +1,5 @@
 ## uploading tilesets to the database
-tilesets upload-source miffll populated-places-source populated_places.geojson.ld
+tilesets upload-source miffll VistaHeights-source ./ParkAndBike/VistaHeights.geojson
 
 ## deleteing tilesets
 tilesets delete-source miffll PumphousePark
@@ -13,7 +13,7 @@ tilesets create miffll.missing-links --recipe missing-links.json --name "missing
  ## publish tilesets
  tilesets publish miffll.park-pathways
  
- export MAPBOX_ACCESS_TOKEN=
+ export MAPBOX_ACCESS_TOKEN=sk.eyJ1IjoibWlmZmxsIiwiYSI6ImNsMW5tNXQ2MzB2dDkzaW9iazh6dGVtbmEifQ.j8ONnlDXTT8sNv8C2U-kXA
 
 tilesets update-recipe miffll.park-pathways ./ParkPathways/park-pathways.json 
 
