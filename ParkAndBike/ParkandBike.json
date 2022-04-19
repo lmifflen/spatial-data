@@ -1,0 +1,40 @@
+{
+    "version": 1,
+    "layers": {
+      "EdworthyNorth": {
+        "source": "mapbox://tileset-source/miffll/EdworthyNorth-source",
+        "minzoom": 0,
+        "maxzoom": 16
+      },
+      "EdworthySouth": {
+        "source": "mapbox://tileset-source/miffll/EdworthySouth-source",
+        "minzoom": 0,
+        "maxzoom": 16
+      },
+        "HomeRoad": {
+            "source": "mapbox://tileset-source/miffll/HomeRoad-source",
+            "minzoom": 0,
+            "maxzoom": 16
+        },
+        "MaxBell": {
+            "source": "mapbox://tileset-source/miffll/MaxBell-source",
+            "minzoom": 0,
+            "maxzoom": 16
+        },
+        "PearceEstates": {
+            "source": "mapbox://tileset-source/miffll/PearceEstates-source",
+            "minzoom": 0,
+            "maxzoom": 16
+        },
+        "SandyBeach": {
+            "source": "mapbox://tileset-source/miffll/SandyBeach-source",
+            "minzoom": 0,
+            "maxzoom": 16
+        },
+        "VistaHeights": {
+            "source": "mapbox://tileset-source/miffll/VistaHeights-source",
+            "minzoom": 0,
+            "maxzoom": 16
+        }
+    }
+  }
