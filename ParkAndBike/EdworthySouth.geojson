@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.156114898609, 51.062068880684]
+      },
+      "properties": {
+        "location_state": null,
+        "website": "http://www.calgary.ca/Transportation/TP/Pages/Cycling/Bicycle-Parking/Calgary-Park-N-Bike-sites.aspx",
+        "location_zip": null,
+        "name": "Edworthy South",
+        "latitude": "51.0620688806839",
+        "route_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_get_there_1bg.gif",
+        "location_address": null,
+        "location_city": null,
+        "longitude": "-114.156114898609",
+        "general_info": "Parking lot is open but cyclists must cross the Edworthy pedestrian bridge and use the north Bow River pathway. The south pathway is closed due to flood damage. Site offers easy access to the north and south sides of the Bow River pathway which both lead to downtown. The gate to the parking lot opens at 5 a.m. and closes at 11 p.m. ",
+        "site_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_edworthy_south_bg.gif"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  }
+}

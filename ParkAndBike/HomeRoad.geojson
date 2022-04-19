@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.164821857509, 51.068723406712]
+      },
+      "properties": {
+        "location_state": null,
+        "website": "http://www.calgary.ca/Transportation/TP/Pages/Cycling/Bicycle-Parking/Calgary-Park-N-Bike-sites.aspx",
+        "location_zip": null,
+        "name": "Home Road",
+        "latitude": "51.0687234067123",
+        "route_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_get_there_1bg.gif",
+        "location_address": null,
+        "location_city": null,
+        "longitude": "-114.164821857509",
+        "general_info": "Access the site from highway 1 (16 Ave NW). Twinned pathways, cyclists must travel along Montgomery Ave to reach designated pathway.",
+        "site_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_home_road_bg.gif"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  }
+}

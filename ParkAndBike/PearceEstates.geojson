@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+
+"type": "Feature",
+"geometry": {
+  "type": "Point",
+  "coordinates": [-114.018039103083, 51.040429859026]
+},
+"properties": {
+  "location_state": null,
+  "website": "http://www.calgary.ca/Transportation/TP/Pages/Cycling/Bicycle-Parking/Calgary-Park-N-Bike-sites.aspx",
+  "location_zip": null,
+  "name": "Pearce Estates",
+  "latitude": "51.0404298590255",
+  "route_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_get_there_3bg.gif",
+  "location_address": null,
+  "location_city": null,
+  "longitude": "-114.018039103083",
+  "general_info": "The site can easily be accessed from Deerfoot Trail and Blackfoot Trail. The gate to the parking lot opens at 5 a.m. and closes at 11 p.m.",
+  "site_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_pearce_estates_bg.gif"
+}
+}
+],
+"crs": {
+  "type": "name",
+  "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+}
+}

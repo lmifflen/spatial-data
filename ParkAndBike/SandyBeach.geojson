@@ -1,0 +1,23 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-114.089999433138, 51.008714971864]
+        },
+        "properties": {
+          "location_state": null,
+          "website": "http://www.calgary.ca/Transportation/TP/Pages/Cycling/Bicycle-Parking/Calgary-Park-N-Bike-sites.aspx",
+          "location_zip": null,
+          "name": "Sandy Beach",
+          "latitude": "51.0087149718638",
+          "route_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_get_there_4bg.gif",
+          "location_address": null,
+          "location_city": null,
+          "longitude": "-114.089999433138",
+          "general_info": "Access the site from 50 Ave S.W. by driving down the gravel road to the parking lot. From here, you can connect to the Elbow River pathway system.",
+          "site_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_sandy_beach_bg.gif"
+        }
+      }

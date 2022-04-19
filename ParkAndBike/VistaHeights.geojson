@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-114.023940315209, 51.074257114356]
+            },
+            "properties": {
+              "location_state": null,
+              "website": "http://www.calgary.ca/Transportation/TP/Pages/Cycling/Bicycle-Parking/Calgary-Park-N-Bike-sites.aspx",
+              "location_zip": null,
+              "name": "Vista Heights",
+              "latitude": "51.0742571143558",
+              "route_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_get_there_2bg.gif",
+              "location_address": null,
+              "location_city": null,
+              "longitude": "-114.023940315209",
+              "general_info": "Access the site from 32 Ave N.E. and park in the west-most corner of the lot for easy access to the Nose Creek pathway system.",
+              "site_info": "http://www.calgary.ca/Transportation/TP/PublishingImages/pb_vista_heights_bg.gif"
+            }
+          }
+        ],
+        "crs": {
+          "type": "name",
+          "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+        }
+      }
+      
